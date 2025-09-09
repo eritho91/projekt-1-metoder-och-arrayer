@@ -21,7 +21,7 @@ public class Logic {
                 largestNumber = num;
             }
         }
-        System.out.println("\nStörsta talet är: " + largestNumber);
+        System.out.println("\n\nStörsta talet är: " + largestNumber);
     }
 
     public void printSyntaxLoop(){
